@@ -1,0 +1,9 @@
+name: Homes
+version: '${project.version}'
+main: me.redvortex.homes.Homes
+api-version: 1.19
+commands:
+  home:
+    description: Teleport to your home
+  sethome:
+    description: Set your home
